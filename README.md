@@ -1,7 +1,7 @@
-https://www.codechef.com/APRIL21B/problems/CHAOSEMP/
+code1 -  https://www.codechef.com/APRIL21B/problems/CHAOSEMP/
 
-https://www.codechef.com/APRIL21B/problems/STRPOW
+code2 - https://www.codechef.com/APRIL21B/problems/STRPOW
+ 
+code3 - https://www.codechef.com/APRIL21B/problems/WTRSORT
 
-https://www.codechef.com/APRIL21B/problems/WTRSORT
-
-https://www.codechef.com/APRIL21B/problems/TREEPERM
+code4 - https://www.codechef.com/APRIL21B/problems/TREEPERM
